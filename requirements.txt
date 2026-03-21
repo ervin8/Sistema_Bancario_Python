@@ -1,0 +1,3 @@
+# Este proyecto utiliza la librería estándar de Python.
+# No se requieren dependencias externas para la funcionalidad básica.
+# Versión mínima recomendada: Python 3.10
