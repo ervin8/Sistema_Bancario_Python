@@ -31,7 +31,7 @@
 
 ### **1- Clonar el repositorio:**
 
-    <pre> git clone [TU_URL_DE_GITHUB_AQUI] </pre>
+<pre> git clone https://github.com/ervin8/Sistema_Bancario_Python.git </pre> 
 
 ### **2- Navegar al directorio:** 
 <pre>cd SISTEMA_BANCARIO_PYTHON</pre>
@@ -43,6 +43,7 @@
 
 **<h3> Puedes ver la explicación detallada de la arquitectura y cómo los patrones aplicados contribuyen a mejorar el software en el siguiente video: </h3>**
 
-<h3>👉 [Enlace al video en YouTube]</h3>
+[Enlace al video en YouTube](https://youtu.be/9EN2hqSBCQg)
+
 
 ----------------------------------------------------------------------------------------------------
