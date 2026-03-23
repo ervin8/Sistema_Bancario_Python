@@ -31,7 +31,7 @@
 
 ### **1- Clonar el repositorio:**
 
-    <pre> git clone [TU_URL_DE_GITHUB_AQUI] </pre>
+    <pre> git clone (https://github.com/ervin8/Sistema_Bancario_Python.git) </pre>
 
 ### **2- Navegar al directorio:** 
 <pre>cd SISTEMA_BANCARIO_PYTHON</pre>
